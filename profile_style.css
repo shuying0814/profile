@@ -1,0 +1,18 @@
+body{
+  background-color: #F0FFFF;
+}
+h1{
+  font-family: 'Indie Flower',cursive;
+}
+p{
+  font-size:200%;
+}
+div{
+  border-top: 1px dashed #E6E6FA;
+  background: #E6E6FA;
+  padding:25px;
+  margin: auto;
+  font-family: 'Poiret One',cursive;
+  width:300px;
+  font-size: 150%;
+}
